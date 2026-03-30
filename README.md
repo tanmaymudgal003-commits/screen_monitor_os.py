@@ -1,6 +1,4 @@
-Here is a professional, ready-to-use GitHub README for your code. It highlights the retro aesthetic, cross-platform compatibility, and real-time monitoring features present in your script.
 
----
 
 # Screen Monitor OS
 
@@ -65,4 +63,4 @@ python3 screen_monitor_os.py
 
 ---
 
-Would you like me to help you write a `requirements.txt` file or an open-source `LICENSE` file to include alongside this README in your repository?
+
